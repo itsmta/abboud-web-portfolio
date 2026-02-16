@@ -3,7 +3,7 @@ import { Education } from "../education/education";
 
 export function meta({}: Route.MetaArgs) {
   return [
-    { title: "New Education Page" },
+    { title: "Abboud Education" },
     { name: "description", content: "Welcome to the education page" },
   ];
 }

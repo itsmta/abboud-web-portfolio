@@ -3,7 +3,7 @@ import { Experience } from "../experience/experience";
 
 export function meta({}: Route.MetaArgs) {
   return [
-    { title: "New Experience Page" },
+    { title: "Abboud Experience" },
     { name: "description", content: "Welcome to the experience page" },
   ];
 }

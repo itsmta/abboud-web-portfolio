@@ -13,5 +13,8 @@ export default [
 
         //experience page
         route("experience", "routes/experience.tsx"),
+    
+	//api
+	route("api/db-health", "routes/api/db-health.ts"),
     ]),
 ] satisfies RouteConfig;
